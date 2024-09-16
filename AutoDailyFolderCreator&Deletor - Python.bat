@@ -1,3 +1,3 @@
 @echo off
-"C:\Program Files\Python312\python.exe" "C:\Users\Admin\Documents\VS Code\Python\recordFoldersAutoDeletion.py"
-"C:\Program Files\Python312\python.exe" "C:\Users\Admin\Documents\VS Code\Python\recordFoldersAutoCreation.py"
+"C:\Program Files\Python312\python.exe" "C:\Users\Admin\Documents\VS Code\Python\AutoDailyFolderCreator - Python\AutoDailyFolderCreator - Python.py"
+"C:\Program Files\Python312\python.exe" "C:\Users\Admin\Documents\VS Code\Python\AutoDailyFolderCreator - Python\AutoDailyFolderDeletor - Python.py"
