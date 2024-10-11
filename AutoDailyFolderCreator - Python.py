@@ -11,7 +11,8 @@ pathLanguageCottage = f"C:/Users/{loggedInUser}/Desktop/Language Cottage"
 pathMusicSquare = f"C:/Users/{loggedInUser}/Desktop/Music Square"
 pathLife = f"C:/Users/{loggedInUser}/Desktop/Life"
 pathUtp=  f"C:/Users/{loggedInUser}/Desktop/utp degree/Utp Life"
-pathList = [pathProgrammingLife, pathLanguageCottage, pathMusicSquare, pathLife, pathUtp]
+pathArt = f"C:/Users/{loggedInUser}/Desktop/Artwork Room"
+pathList = [pathProgrammingLife, pathLanguageCottage, pathMusicSquare, pathLife, pathUtp, pathArt]
 createdPaths = []
 scriptStatus = True
 
